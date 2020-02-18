@@ -1,0 +1,1 @@
+automation - process of generating tools that execute tasks without the help of human intervention.
