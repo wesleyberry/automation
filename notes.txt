@@ -1,1 +1,12 @@
 automation - process of generating tools that execute tasks without the help of human intervention.
+
+1) The code standards
+    Writing linting rules into a configuration file 
+2) Bootstrap of a new file and the typing repition of the same peice of code
+    identifying code snippets
+3) command line commands
+    create alias for navigation
+4) solutions for known problems
+    codepen
+
+* Don't write twice *
